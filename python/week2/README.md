@@ -27,6 +27,6 @@
 4. Now show the blueprint of a class using [this](./codes/session2/oops_blueprint.py) file. (~10 minutes)
 5. Discuss the idea of attributes in a class using [this](./codes/session2/oops_attrs.py) file. Ask students to include more attributes and check their code. You will also focus on what a constructor is. (~20 minutes)
 6. Now use the code [here](./codes/session2/oops2.py) to discuss about the methods in a class. Use this [file](./codes/session2/oops_run.py) to run the code (~20 minutes)
-7. Use this [file] to demonstrate how dunder (__method__) methods work. Make students experiment with __len__ method. (~ 10 minutes)
+7. Use this [file](./codes/session2/oops_dunder.py) to demonstrate how dunder (__method__) methods work. Make students experiment with __len__ method. (~ 10 minutes)
 8. Talk about test driven development and how it helps in reducing bugs while developing. (~5 minutes)
 9. Refer to the files [etl.py](./codes/session2/etl.py) and [test_etl.py](./codes/session2/test_etl.py). Develop test first and then write class definition. One method has been written as an example you can include more methods and corresponding tests. The end objective is that the learner should be able to understand that first feature has to be thought, then interface has to be fixed, then test has to be defined and finally the code is written. (~ 30 minutes)
