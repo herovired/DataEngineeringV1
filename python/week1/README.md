@@ -1,5 +1,3 @@
-## Data Engineering (Live Lecture Repository)
-
 ## Week 1 (Session1)
 
 ### LO
@@ -40,4 +38,4 @@ Refactor some of the code problems to use commandline args
 5. Use the file [logs.py](./codes/session2/logs.py) to build intuition about logging (~10-15 mins)
 6. Use the file [logs1.py](./codes/session2/logs1.py) to talk about log formats (~5-10 mins)
 7. Use the file [logs2.py](./codes/session2/logs2.py) to talk about logging on text files (~5-10 mins)
-8. Use the problems from previous lecture to make learners practice type hints, debugging and logging.
+8. Use the problems from previous lecture to make learners practice type hints, debugging and logging. (Remaining time)
