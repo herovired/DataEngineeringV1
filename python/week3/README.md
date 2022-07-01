@@ -1,4 +1,4 @@
-## Week 3 (Session1)
+## Week 3 
 
 ### LO
 1. Use anchors and metacharacters to create regex patterns that help search through text.
